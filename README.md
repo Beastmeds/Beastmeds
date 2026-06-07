@@ -1,4 +1,4 @@
-# 👋 Hey, I’m beastmeds
+# 👋 Hey, I’m Beastmeds
 
 🚀 Building, breaking & rebuilding things until they work better than before.
 

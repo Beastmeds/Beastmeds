@@ -49,7 +49,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beastmeds&layout=compact&theme=tokyonight&hide_border=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=beastmeds)
+![Stats](https://github-readme-stats.vercel.app/api?username=Beastmeds)
 
 ---
 
